@@ -26,7 +26,7 @@ const pages = resolvePageToggles({
 	// 书签导航页面开关
 	booknav: true,
 	// 哔哩哔哩追番页面开关
-	bilibili: false,
+	bilibili: true,
 	// 番组计划页面开关
 	bangumi: false,
 	// VNDB页面开关
@@ -42,17 +42,17 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "HBR's Blog",
+	title: "阿瑞的博客小站",
 
 	// 站点副标题
-	subtitle: "hbr",
+	subtitle: "welcome",
 
 	// 站点 URL
 	site_url: "https://000985211.xyz",
 
 	// 站点描述
 	description:
-		"Hold your dream，Brave to struggle，Reap the shining future.",
+		"这是我的第一个博客。",
 
 	// 站点关键词
 	keywords: [
@@ -262,7 +262,7 @@ export const siteConfig: SiteConfig = {
 	// ── Bilibili配置 ──────────────────────────────────
 	bilibili: {
 		// 你的 Bilibili 用户 UID
-		uid: "38932988",
+		uid: "356473246",
 	},
 
 	// ── 番组计划bangumi配置 ──────────────────────────────────
