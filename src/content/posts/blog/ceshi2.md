@@ -9,4 +9,4 @@ category: 分类
 draft: false
 author: 阿瑞
 ---
-22222222222
+试下obsidian更新
