@@ -45,14 +45,14 @@ export const siteConfig: SiteConfig = {
 	title: "阿瑞博客小站",
 
 	// 站点副标题
-	subtitle: "welcome",
+	subtitle: "记录自己瞎折腾",
 
 	// 站点 URL
 	site_url: "https://000985211.xyz",
 
 	// 站点描述
 	description:
-		"这是我的第一个博客。",
+		"阿瑞的博客。",
 
 	// 站点关键词
 	keywords: [
@@ -68,7 +68,7 @@ export const siteConfig: SiteConfig = {
 	// 主题色
 	themeColor: {
 		// 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
-		hue: 165,
+		hue: 250,
 		// 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
 		defaultMode: "system",
 	},
@@ -81,7 +81,7 @@ export const siteConfig: SiteConfig = {
 	// 网站Card样式配置
 	card: {
 		// 是否开启卡片边框和阴影，开启后让网站更有立体感
-		border: false,
+		border: true,
 		// 是否让卡片风格跟随主题色相
 		followTheme: false,
 	},
