@@ -4,7 +4,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	// 壁纸模式："banner" 横幅壁纸，"fullscreen" 全屏壁纸，"overlay" 覆盖透明，"none" 纯色背景无壁纸
 	mode: "banner",
 	// 是否启用背景视频播放，配置后将在导航栏显示视频播放按钮
-	playerEnable: true,
+	playerEnable: false,
 	/**
 	 * 背景图片配置
 	 * 图片路径支持三种格式：
@@ -110,21 +110,21 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 					url: "https://github.com/huangbingrui",
 					showName: true,
 				},
-				{
-					name: "Email",
-					icon: "fa7-solid:envelope",
-					url: "mailto:xiaye@msn.com",
-				},
-				{
-					name: "Sponsor",
-					icon: "material-symbols:favorite",
-					url: "https://blog.cuteleaf.cn/sponsor/",
-				},
-				{
-					name: "RSS",
-					icon: "fa7-solid:rss",
-					url: "/rss/",
-				},
+				// {
+				// 	name: "Email",
+				// 	icon: "fa7-solid:envelope",
+				// 	url: "mailto:xiaye@msn.com",
+				// },
+				// {
+				// 	name: "Sponsor",
+				// 	icon: "material-symbols:favorite",
+				// 	url: "https://blog.cuteleaf.cn/sponsor/",
+				// },
+				// {
+				// 	name: "RSS",
+				// 	icon: "fa7-solid:rss",
+				// 	url: "/rss/",
+				// },
 			],
 		},
 		// 壁纸轮播配置，横幅壁纸和全屏壁纸共享，仅在配置多张图片时生效
