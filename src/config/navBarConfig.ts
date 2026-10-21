@@ -125,12 +125,12 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	});
 
 	// 文档链接
-	links.push({
-		name: "使用文档",
-		url: "https://docs-firefly.cuteleaf.cn",
-		external: true,
-		icon: "material-symbols:docs",
-	});
+	// links.push({
+	// 	name: "使用文档",
+	// 	url: "https://docs-firefly.cuteleaf.cn",
+	// 	external: true,
+	// 	icon: "material-symbols:docs",
+	// });
 
 
 	return { links } as NavBarConfig;
