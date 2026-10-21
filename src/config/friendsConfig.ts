@@ -23,10 +23,10 @@ export const friendsPageConfig: FriendsPageConfig = {
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
-		title: "阿瑞瞎折腾",
+		title: "阿瑞",
 		imgurl:
 			"http://imgbed.000985211.xyz/file/头像/1792124516561_hanli.jpg",
-		desc: "阿瑞的瞎折腾记录博客",
+		desc: "阿瑞的瞎折腾记录",
 		siteurl: "https://blog.aruiyyds.me",
 		tags: ["Blog"],
 		weight: 10, // 权重，数字越大排序越靠前
