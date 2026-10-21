@@ -27,7 +27,7 @@ export const friendsConfig: FriendLink[] = [
 		imgurl:
 			"http://imgbed.000985211.xyz/file/头像/1792124516561_hanli.jpg",
 		desc: "阿瑞的瞎折腾记录博客",
-		siteurl: "https://blog.000985211.xyz",
+		siteurl: "https://blog.aruiyyds.me",
 		tags: ["Blog"],
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用

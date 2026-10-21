@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "记录自己瞎折腾",
 
 	// 站点 URL
-	site_url: "https://000985211.xyz",
+	site_url: "https://blog.aruiyyds.me/",
 
 	// 站点描述
 	description:
