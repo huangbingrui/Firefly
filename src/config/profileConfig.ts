@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "阿瑞",
 
 	// 个人签名
-	bio: "Hold your dream，Brave to struggle，Reap the shining future.",
+	bio: "这里是我的个人博客：写下踩过的坑、学会的东西和一些日常记录",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -27,23 +27,23 @@ export const profileConfig: ProfileConfig = {
 			url: "https://github.com/huangbingrui",
 			showName: false,
 		},
-		{
-			name: "Email",
-			icon: "fa7-solid:envelope",
-			url: "204819781@qq.com",
-			showName: false,
-		},
-		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
-			showName: false,
-		},
-		{
-			name: "Atom",
-			icon: "fa7-solid:atom",
-			url: "/atom/",
-			showName: false,
-		},
+		// {
+		// 	name: "Email",
+		// 	icon: "fa7-solid:envelope",
+		// 	url: "204819781@qq.com",
+		// 	showName: false,
+		// },
+		// {
+		// 	name: "RSS",
+		// 	icon: "fa7-solid:rss",
+		// 	url: "/rss/",
+		// 	showName: false,
+		// },
+		// {
+		// 	name: "Atom",
+		// 	icon: "fa7-solid:atom",
+		// 	url: "/atom/",
+		// 	showName: false,
+		// },
 	],
 };
