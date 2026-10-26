@@ -1,5 +1,5 @@
 ---
-title: “obsidian编写”
+title: 使用obsidian编写博客
 published: 2026-10-03
 update: 2026-10-03
 description: 简单试下obsidian更新
@@ -12,7 +12,7 @@ author: 阿瑞
 ---
 
 ##  目录一
-**试下obsidian更新**
+**试下obsidian更新博客**
 ##  目录二
 > [!WARNING] 警告
 > 需要立即注意的关键内容。
